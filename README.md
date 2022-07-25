@@ -7,5 +7,9 @@
 
 大家可按照需求来取
 
+---
+
+##### 此数据是通过https://github.com/wecatch/china_regions取出整理
+
 
 
